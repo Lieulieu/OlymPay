@@ -133,6 +133,14 @@ We believe that the future of finance lies in the convergence of traditional pay
 - **Real-World Asset Integration**: RWA VNX Gold tokenization on U2U Network
 - **Vietnamese Market Focus**: Tailored solutions for the Vietnamese financial ecosystem
 - **Enterprise Ready**: API-first architecture for business integration
+  
+### Key Achievements During Hackathon
+- **Technical Innovation**: Successfully leveraged U2U Network's DAG architecture for superior performance
+- **Market Focus**: Tailored solutions specifically for the Vietnamese financial ecosystem
+- **Scalability**: Built infrastructure capable of handling enterprise-level transaction volumes
+- **User Experience**: Created intuitive interface that abstracts blockchain complexity
+- **Integration**: Seamless integration between traditional and decentralized finance
+
 
 ## 🚀 Getting Started
 
