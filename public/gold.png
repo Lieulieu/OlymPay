@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#goldGrad)" rx="20"/>
+  <text x="100" y="80" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">GOLD</text>
+  <text x="100" y="110" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="white">Tokenized</text>
+  <text x="100" y="130" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Asset</text>
+  <text x="100" y="150" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Precious Metal</text>
+  <circle cx="100" cy="170" r="12" fill="white" opacity="0.3"/>
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#F59E0B">Au</text>
+</svg>

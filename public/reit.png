@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="reitGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A855F7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#reitGrad)" rx="20"/>
+  <text x="100" y="70" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">REIT</text>
+  <text x="100" y="90" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Real Estate</text>
+  <text x="100" y="110" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Investment</text>
+  <text x="100" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Trust</text>
+  <rect x="70" y="140" width="60" height="15" fill="white" opacity="0.3" rx="3"/>
+  <text x="100" y="150" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#7C3AED">6.8% Yield</text>
+  <rect x="85" y="160" width="30" height="20" fill="white" opacity="0.2" rx="2"/>
+  <rect x="90" y="165" width="5" height="10" fill="white" opacity="0.4"/>
+  <rect x="100" y="165" width="5" height="10" fill="white" opacity="0.4"/>
+  <rect x="110" y="165" width="5" height="10" fill="white" opacity="0.4"/>
+</svg>
