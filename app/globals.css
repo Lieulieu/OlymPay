@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Ensure DaisyUI theme is applied */
+html[data-theme="solbase"] {
+  --fallback-p: #0ea5e9;
+  --fallback-pc: #ffffff;
+  --fallback-s: #6b7280;
+  --fallback-sc: #ffffff;
+  --fallback-a: #22c55e;
+  --fallback-ac: #ffffff;
+  --fallback-n: #374151;
+  --fallback-nc: #ffffff;
+  --fallback-b1: #ffffff;
+  --fallback-b2: #f3f4f6;
+  --fallback-b3: #e5e7eb;
+  --fallback-bc: #0f172a;
+}
+
+/* Custom button styles for better primary color */
+.btn-primary {
+  background-color: #0ea5e9 !important;
+  color: #ffffff !important;
+  border-color: #0ea5e9 !important;
+}
+
+.btn-primary:hover {
+  background-color: #0284c7 !important;
+  border-color: #0284c7 !important;
+}
+
+.btn-primary:focus {
+  outline: 2px solid #0ea5e9;
+  outline-offset: 2px;
+}
+
+/* Fix button hover states */
+.btn:hover {
+  background-color: var(--fallback-b2) !important;
+  color: var(--fallback-bc) !important;
+}
+
+.btn-ghost:hover {
+  background-color: var(--fallback-b2) !important;
+  color: var(--fallback-bc) !important;
+}
+
+.btn-outline:hover {
+  background-color: var(--fallback-b2) !important;
+  color: var(--fallback-bc) !important;
+  border-color: var(--fallback-b3) !important;
+}
+
+.btn:active {
+  background-color: var(--fallback-b3) !important;
+  color: var(--fallback-bc) !important;
+}
+
+/* Ensure primary color is used consistently */
+.bg-primary {
+  background-color: #0ea5e9 !important;
+}
+
+.text-primary {
+  color: #0ea5e9 !important;
+}
+
+.text-primary-foreground {
+  color: #ffffff !important;
+}
+
+.border-primary {
+  border-color: #0ea5e9 !important;
+}
