@@ -6,7 +6,7 @@ Pitch-deck: https://www.canva.com/design/DAGy3Uys_Dc/_UcbLjIw3Vj-vfjAI5jlyA/view
 
 Video demo: 
 
-[![Video demo:](https://img.youtube.com/vi/cMiEtia7oLM/maxresdefault.jpg)](https://www.youtube.com/watch?v=r56cR8WMQDs)
+[![Video demo:](https://img.youtube.com/vi/r56cR8WMQDs/maxresdefault.jpg)](https://www.youtube.com/watch?v=r56cR8WMQDs)
 
 ## 🌟 Vision
 
