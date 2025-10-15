@@ -1,6 +1,6 @@
 # OlymPay on U2U Network
 
-OlymPay is a modern cross-chain payment platform deployed on U2U Network, providing decentralized payment services with stablecoins Pegged USDT. The application integrates ZaloPay for domestic Vietnamese payments and supports cross-chain transactions between blockchain networks.
+OlymPay is a modern cross-chain payment platform deployed on U2U Network, providing decentralized payment services with stablecoins Pegged USDC. The application integrates ZaloPay for domestic Vietnamese payments and supports cross-chain transactions between blockchain networks.
 
 Pitch-deck: https://www.canva.com/design/DAGy3Uys_Dc/_UcbLjIw3Vj-vfjAI5jlyA/view
 
@@ -23,7 +23,7 @@ We believe that the future of finance lies in the convergence of traditional pay
 
 ### Cross-Chain Payment Infrastructure
 - **Multi-Network Support**: Seamless integration with U2U Network and Base Network
-- **Stablecoin Ecosystem**: Support for Pegged USDT across different chains
+- **Stablecoin Ecosystem**: Support for Pegged USDC across different chains
 - **Real-Time Settlement**: Instant cross-chain transactions with minimal fees
 - **Smart Contract Integration**: Automated payment processing with programmable money
 
